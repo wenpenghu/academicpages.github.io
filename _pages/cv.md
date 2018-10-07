@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D student in NLP Machine Learning, Peking University, 2017
 
 Work experience
 ======

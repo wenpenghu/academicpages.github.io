@@ -13,7 +13,7 @@ main:
     url: /portfolio/
     
   - title: "Project"
-    url: /project/
+    url: /home/
     
   - title: "Files"
     url: /files/

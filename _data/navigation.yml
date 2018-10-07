@@ -16,7 +16,7 @@ main:
     url: /index/
     
   - title: "Files"
-    url: /files/
+    url: /deadlines/
         
   - title: "Blog Posts"
     url: /year-archive/

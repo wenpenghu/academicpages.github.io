@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Deadline"
+permalink: /deadline/s
+author_profile: true
+---
+
 ## AI Challenge Deadlines
 To add/update a challenge: Fork the repository, Update README.md and Send a pull request.
 

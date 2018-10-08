@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Deadline"
-permalink: /deadlines/
+permalink: /deadline/
 author_profile: true
 ---
 

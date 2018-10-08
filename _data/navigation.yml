@@ -16,7 +16,7 @@ main:
     url: /deadlines/
     
   - title: "Files"
-    url: /deadlines/
+    url: /deadline/
         
   - title: "Blog Posts"
     url: /year-archive/

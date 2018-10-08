@@ -54,10 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 # email: abhshkdz@vt.edu
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
 
 domain: "aideadlin.es"
-baseurl: ""
 
 twitter_username: abhshkdz
 twitter_hashtag: machinelearning

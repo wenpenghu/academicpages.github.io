@@ -81,3 +81,12 @@
   place: New Orleans, Louisiana, US
   sub: ML
 
+- name: KDD
+  year: 2019
+  id: kdd19
+  link: http://www.kdd.org/kdd2019
+  deadline: TBA
+  timezone: TBA
+  date: August 3-7, 2019
+  place: Anchorage, Alaska - USA
+  sub: DM

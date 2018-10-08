@@ -53,15 +53,10 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+descriptions: Countdowns to top /NLP/ML/AI/DM conference deadlines
 
 domain: "aideadlin.es"
-
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
-
+titleforday              : "NLP Conference Deadlines"
 markdown: kramdown
 ga_id: UA-36274081-2
 

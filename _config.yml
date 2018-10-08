@@ -52,7 +52,22 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+# email: abhshkdz@vt.edu
+description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+author: Abhishek Das
 
+domain: "aideadlin.es"
+baseurl: ""
+
+twitter_username: abhshkdz
+twitter_hashtag: machinelearning
+github_username: abhshkdz
+github_repo: ai-deadlines
+
+markdown: kramdown
+ga_id: UA-36274081-2
+
+theme: jekyll-theme-cayman
 # Social Sharing
 twitter:
   username               : &twitter

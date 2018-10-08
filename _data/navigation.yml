@@ -13,7 +13,7 @@ main:
     url: /portfolio/
     
   - title: "Project"
-    url: /
+    url: ""
     
   - title: "Files"
     url: /deadlines/

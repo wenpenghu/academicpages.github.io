@@ -71,7 +71,7 @@
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   sub: AI
   
-  - name: EMNLP
+- name: EMNLP
   year: 2018
   id: emnlp18
   link: http://emnlp2018.org
@@ -81,7 +81,7 @@
   place: Brussels, Belgium
   sub: NLP
   
-  - name: NAACL
+- name: NAACL
   year: 2019
   id: naacl19
   link: http://naacl2019.org/

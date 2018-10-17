@@ -5,5 +5,5 @@
   sub: AI
 - name: Natural Language Processing
   sub: NLP
-- name: Data Mining
+- name: Search & Mining
   sub: DM

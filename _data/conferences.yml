@@ -60,6 +60,26 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska - USA
   sub: DM
+  
+- name: SIGIR
+  year: 2019
+  id: sigir19
+  link: http://sigir.org/sigir2019/index.html?menu=homepage
+  deadline: TBA
+  timezone: TBA
+  date: July 21-25, 2019
+  place: Paris, France
+  sub: DM
+  
+- name: WSDM
+  year: 2019
+  id: wsdm19
+  link: http://www.wsdm-conference.org/2019/
+  deadline: "2018-08-14 23:59:59"
+  timezone: America/Los_Angeles
+  date: Feb 11-15, 2019
+  place: Melbourne, Australia
+  sub: DM
 
 - name: AAAI
   year: 2019

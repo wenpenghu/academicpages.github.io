@@ -46,7 +46,7 @@
   id: www19
   link: http://www.kdd.org/kdd2019
   deadline: "2018-11-05 23:59:59"
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: May 13-17, 2019
   place: San Francisco
   sub: DM

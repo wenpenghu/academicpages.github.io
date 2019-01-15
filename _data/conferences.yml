@@ -92,13 +92,13 @@
   sub: AI
   
 - name: EMNLP
-  year: 2018
-  id: emnlp18
-  link: http://emnlp2018.org
-  deadline: "2018-05-22 23:59:59"
-  timezone: America/Los_Angeles
-  date: November 2-4, 2018
-  place: Brussels, Belgium
+  year: 2019
+  id: emnlp19
+  link: https://www.emnlp-ijcnlp2019.org/
+  deadline: "2019-05-21 23:59:00"
+  timezone: UTC-7
+  date: November 5-7, 2019
+  place: Hong Kong, China
   sub: NLP
   
 - name: NAACL

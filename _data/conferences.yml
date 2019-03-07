@@ -22,13 +22,13 @@
   sub: ML
 
 - name: NIPS
-  year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
-  deadline: "2018-05-18 13:00:00"
+  year: 2019
+  id: nips19
+  link: https://nips.cc/Conferences/2019
+  deadline: "2018-05-23 18:00:00"
   timezone: America/Los_Angeles
-  date: December 3-8, 2018
-  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+  date: December 10-12, 2019
+  place: "Vancouver Convention Center, Vancouver CANADA"
   sub: ML
 
 - name: ICLR
